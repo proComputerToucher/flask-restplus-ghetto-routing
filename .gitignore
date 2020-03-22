@@ -1,0 +1,15 @@
+# python interpreter cache
+__pycache__/
+
+# python virtual environments
+venv/
+
+# vscode settings
+.vscode/
+
+# vim files
+*~
+*.swp
+*.swo
+
+
